@@ -69,7 +69,7 @@ This solution is organized into the following main projects:
 - RabbitMQ (optional)
 - Swagger (if added in API layer)
 
----
+
 
 ## ⚙️ Getting Started
 
@@ -120,3 +120,23 @@ Then open in your browser:
 arduino
 
 https://localhost:5101
+
+🔑 Test Users
+👨‍💼 Admin
+Email: system.admin@hms.com
+
+Password: SecurePass#123
+
+🩺 Doctors
+Email: dr.luiz@hms.com
+
+Email: dr.carla@hms.com
+
+Password (both): SecurePass#123
+
+🧑‍⚕️ Patients
+Email: juliana.silva@hms.com
+
+Email: ricardo.lima@hms.com
+
+Password (both): SecurePass#123
